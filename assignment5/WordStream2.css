@@ -1,0 +1,213 @@
+*/{
+	width:970px;
+	margin:0px;
+	padding:0px;
+	border:solid 1px red;
+}
+#logo{
+  display:inline-block;
+}
+#header>h1{
+  color:silver;
+  margin-right: 139px;
+  display: inline-block;
+  width:350px;
+  vertical-align: top;
+}
+#header>#navigation{
+  display: inline-block;
+  vertical-align:top;
+  text-align: right;
+}
+#header>#navigation>a{
+  color: gray;
+  text-decoration: none;
+  display: inline;
+  border: solid 1pt silver;
+  text-align: center;
+  vertical-align: top;
+  padding:5px;
+  font-size: 10px;
+}
+#header>#navigation>.button{
+  width:80px;
+  font-size:14px;
+  text-decoration:none;
+  margin-left: 5px;
+  color:white;
+  border:1px solid #fff;
+  background-color: #49a9d4;
+  display: inline;
+  padding-left: 10px;
+}
+#subheader{
+	padding: 5px;
+	background-color:#4682B4;
+	color:white;
+	font-size: 16;
+	font-weight:bold;
+  display:block;
+  width: 970px
+}
+#left_content{
+	display:inline-block;
+	vertical-align: top;
+	width:200px;
+	margin:10px;
+	padding:10px;
+}
+#left_content>#upperleft_content>span{
+	color:orange;
+}
+#left_content>#upperleft_content>span>a{
+	text-decoration: none;
+}
+#left_content>#upperleft_content2{
+  border-bottom:solid 1px black;
+}
+#left_content>#upperleft_content2>.button:first-child{
+  width:160px;
+  color:#ffffff;
+  background:#337fcc;
+  font-size:10px;
+  font-weight:bold;
+  text-align:center;
+  display:block;
+  text-decoration:none;
+  border:1px solid #225588;
+  padding:5px 0 3px 0;
+  border-radius:5px;
+}
+#left_content>#upperleft_content2>.button:nth-child(2){
+  width:160px;
+  color:#ffffff;
+  background:#cc6633;
+  font-size:10px;
+  font-weight:bold;
+  text-align:center;
+  display:block;
+  text-decoration:none;
+  border:1px solid #225588;
+  padding:5px 0 3px 0;
+  border-radius:5px;
+}
+#left_content>#bottomleft_content>.button{
+  width:160px;
+  color:#ffffff;
+  background:#337fcc;
+  font-size:12px;
+  font-weight:bold;
+  text-align:center;
+  display:block;
+  text-decoration:none;
+  border:1px solid #225588;
+  padding:5px 0 3px 0;
+  border-radius:5px;
+}
+.button{
+  width:160px;
+  color:#ffffff;
+  background:#337fcc;
+  font-size:12px;
+  font-weight:bold;
+  text-align:center;
+  display:block;
+  text-decoration:none;
+  border:1px solid #225588;
+  padding:5px 0 3px 0;
+  border-radius:5px;
+}
+#main_content>#explanation>.button{
+  width:160px;
+  color:#ffffff;
+  background:#9ACD32;
+  font-size:12px;
+  font-weight:bold;
+  text-align:center;
+  display:block;
+  text-decoration:none;
+  border:1px solid #225588;
+  padding:5px 0 3px 0;
+  border-radius:5px;
+}
+#left_content>#bottomleft_content{
+width:200px;
+height:240px;
+background-image: url(left_content_ad.png);
+}
+#main_content{
+	width:750px;
+	margin:10px;
+	padding:10px;
+	display:inline-block;
+}
+#main_content>#contact{
+	vertical-align: top;
+  display:block;
+  border-bottom: solid 1px black;
+}
+#contact1{
+  width:400px;
+  display:inline-block;
+  vertical-align: top;
+}
+#photo1{
+  display:inline-block;
+}
+#main_content>#contact>#contact1>h4{
+  display: inline;
+}
+#main_content>#contact>#contact2{
+  display: inline-block;
+}
+#main_content>#contact>#contact2>img{
+  display:inline-block;
+}
+#main_content>#contact>#contact2>ul{
+  vertical-align: top;
+  display: inline-block;
+  margin-top: -10px;
+}
+#main_content>#contact>#contact2>ul>li{
+	display:block;
+	list-style-type: none;
+	vertical-align: top;
+  padding-left: 0px
+}
+#main_content>#contact>#contact2>ul>li:nth-child(2){
+	font-size: 20;
+	color:#4682B4;
+}
+#main_content>#explanation>#highlight{
+	vertical-align: top;
+  border: solid 2px #4682B4;
+  display:block;
+}
+#main_content>#explanation>#highlight>h3{
+  display: inline-block;
+  vertical-align: top;
+}
+#main_content>#explanation>p:first-child{
+  display: block;
+}
+
+#main_content>#explanation>#highlight>p{
+  display:inline;
+}
+a{
+	color:#4682B4;
+}
+#main_content>#explanation>#highlight>img{
+  width:50px;
+  display: inline-block;
+}
+.strength{
+	font-weight: bold;
+}
+h3{
+	color:#4682B4;
+  display:inline;
+}
+h4{
+	color:#4682B4;
+}
